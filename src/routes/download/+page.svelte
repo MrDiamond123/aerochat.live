@@ -52,9 +52,12 @@
 			<div class="because">join the club</div>
 			<div class="why-container">
 				<p>Download AeroChat for Windows:</p>
+				<p>Aerochat is currently being rewritten in WPF/C# so it is currently not available for download.</p>
+				<p>If you want to find out more, check out the <a href="https://discord.gg/EfHdHThNGX" target="_blank">discord server!</a></p>
+
 				<!-- <a href={url}>Latest release</a>
 				<a href="https://github.com/Nostalgia-09/AeroChat/releases">All releases</a> -->
-				<CommandLink
+				<!-- <CommandLink
 					title="Download the latest version of AeroChat"
 					description="This will download the latest tag from AeroChat's GitHub repository directly."
 					href={url}
@@ -65,7 +68,7 @@
 					description="This will open AeroChat's GitHub respository and view all public releases."
 					href="https://github.com/Nostalgia-09/AeroChat/releases"
 					target="_blank"
-				/>
+				/> -->
 			</div>
 		</div>
 	</div>
